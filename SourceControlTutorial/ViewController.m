@@ -19,11 +19,18 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"push my new thing to repo");
+    
+    NSLog(@"push my new thing to repo");
+    
+    //I have made change in viewdidload to test 
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+
+
 
 @end
