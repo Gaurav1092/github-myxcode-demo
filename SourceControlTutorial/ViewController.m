@@ -20,7 +20,7 @@
     
     NSLog(@"push my new thing to repo");
 }
-
+//hhjhjhjhjhjjhjnn
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
